@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@apollo/client": "^3.7.16",
+    "fs-extra": "^11.1.1",
+    "git-clone": "^0.2.0",
     "graphql": "^16.7.1",
     "jest-environment-jsdom": "^29.5.0",
     "json-graphql-server": "^2.3.2",
